@@ -22,7 +22,7 @@ mostrando: el nombre del autor, la fecha/hora del comentario y el texto del mism
 
 <p align="center">
 
-<img src='https://github.com/StefanoQuiroz/CTC/blob/main/images/fridomTest.PNG' width='700px'>
+<img src='https://github.com/StefanoQuiroz/fridomPrueba/tree/main/images/fridomTest.PNG' width='700px'>
 
 </p>
 
@@ -30,7 +30,7 @@ mostrando: el nombre del autor, la fecha/hora del comentario y el texto del mism
 
 <p align="center">
 
-<img src='https://github.com/StefanoQuiroz/CTC/blob/main/gif/' width='700px'>
+<img src='https://github.com/StefanoQuiroz/fridomPrueba/tree/main/gif/fridomTest.gif' width='700px'>
 
 </p>
 
@@ -39,7 +39,7 @@ mostrando: el nombre del autor, la fecha/hora del comentario y el texto del mism
 
 ```sh
 1. Dentro de la terminal posicionarse en una carpeta.
-2. git clone 
+2. git clone https://github.com/StefanoQuiroz/fridomPrueba.git
 3. cd fridom-prueba
 4. npm i (para descargar todas las dependencias empleadas).
 5. npm run dev (para ejecutar) y ejecutar http://localhost:3000/.
@@ -49,5 +49,5 @@ mostrando: el nombre del autor, la fecha/hora del comentario y el texto del mism
 # Link
 
 <p align="left">
-https://ctc-demo-efdbf.web.app/
+https://fridom-prueba-tecnica.vercel.app/
 </p>
