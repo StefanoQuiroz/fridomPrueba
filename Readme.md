@@ -22,7 +22,7 @@ mostrando: el nombre del autor, la fecha/hora del comentario y el texto del mism
 
 <p align="center">
 
-<img src='https://github.com/StefanoQuiroz/fridomPrueba/tree/main/images/fridomTest.PNG' width='700px'>
+<img src='https://github.com/StefanoQuiroz/fridomPrueba/blob/main/images/fridomTest.PNG' width='700px'>
 
 </p>
 
@@ -30,7 +30,7 @@ mostrando: el nombre del autor, la fecha/hora del comentario y el texto del mism
 
 <p align="center">
 
-<img src='https://github.com/StefanoQuiroz/fridomPrueba/tree/main/gif/fridomTest.gif' width='700px'>
+<img src='https://github.com/StefanoQuiroz/fridomPrueba/blob/main/gif/fridomTest.gif' width='700px'>
 
 </p>
 
